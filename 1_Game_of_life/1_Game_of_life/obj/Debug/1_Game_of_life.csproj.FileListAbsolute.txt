@@ -1,0 +1,42 @@
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe.config
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.pdb
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.game.resources
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.Properties.Resources.resources
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.exe
+C:\Users\acer\source\repos\2PRACTIC\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.pdb
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe.config
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.pdb
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.game.resources
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.Properties.Resources.resources
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.exe
+C:\Users\acer\source\repos\2PRACTIC\help\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.pdb
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe.config
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.pdb
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.AssemblyReference.cache
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.SuggestedBindingRedirects.cache
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.game.resources
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.Properties.Resources.resources
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.GenerateResource.cache
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.exe
+C:\Users\ogama\Desktop\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.pdb
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe.config
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.exe
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\bin\Debug\1_Game_of_life.pdb
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.AssemblyReference.cache
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.SuggestedBindingRedirects.cache
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.game.resources
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\_1_Game_of_life.Properties.Resources.resources
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.GenerateResource.cache
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.exe
+C:\Users\0airo\OneDrive\Рабочий стол\1_Game_of_life\1_Game_of_life\obj\Debug\1_Game_of_life.pdb
